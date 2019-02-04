@@ -1,0 +1,6 @@
+owner=511361081894109229
+prefix=7
+game=playing|By|Vairos|7Play
+stayinchannel=true
+songinstatus=false
+token=NTQyMDA4MzQ0MTc3ODAzMjY1.DznwIA.BhuIpq2PA7HL_8HMKt6JGcU77Lo
